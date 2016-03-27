@@ -1,10 +1,9 @@
 # Usage
 
-To build `sassc` into `$PWD/build` run:
+To build `sassc` in current dir run:
 
 ```
 make
 make test
 ``` 
-
 
